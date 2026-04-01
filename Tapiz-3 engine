@@ -1,0 +1,28 @@
+TAPIZ-ENGINE MANIFEST
+
+No creamos.
+Copiamos.
+
+No innovamos.
+Recombinamos.
+
+Toda idea debe declarar su linaje.
+
+Este repositorio es un nodo del tapiz global.
+
+Reglas:
+1. Toda contribucion debe referenciar otra
+2. Forkear es obligatorio (no opcional)
+3. El valor esta en la transformacion
+4. No existe autor original
+
+Objetivo:
+Construir tesis distribuidas sobre el tapiz.
+
+Estructura:
+- Cada issue = idea
+- Cada PR = transformacion
+- Cada fork = universo paralelo
+
+Contrato:
+El conocimiento es un grafo, no una propiedad.
